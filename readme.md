@@ -16,7 +16,7 @@ This project is a multimodal Retrieval-Augmented Generation (RAG) application th
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PravinRF7/AI-voice-Assistant--Multimodel.git
    cd project_folder
    ```
 
